@@ -1,0 +1,28 @@
+#Project 3 - Unix Utility Collection
+
+
+## Jeffrey Kao   (810240393)
+## Brian Alvarez (810363114)
+
+
+Project 3 consists of a collection of 13 basic Unix utilities that we have implemented
+using low-level system calls.
+
+
+## Instructions on how to run the Project 3 programs:
+
+To remove any previous versions of the programs, type in:
+
+$ make clean
+
+To compile all the programs at once, type in:
+
+$ make
+
+Or you can compile specific programs by typing:
+
+$ make (name of program you want to make)
+
+From here, you can run the program by typing the name of the program like so:
+
+$ ./cal
